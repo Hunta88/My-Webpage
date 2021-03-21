@@ -1,0 +1,17 @@
+Build a Web Page Project
+
+Topics:
+
+- Page on Rugby in General
+- Home Page for Blog
+- Utila 
+
+Home page for Blog ideas
+- Big title
+- Short intro to the page
+- directory links to seperate pages that will be for Blog Catagories
+- 3 Photos of me and the things I do
+- Quote somewhere
+- Social media Links
+- Form for newsletter / to receive email on updates
+- Use Iframe somewhere
